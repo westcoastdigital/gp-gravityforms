@@ -1,0 +1,17 @@
+/* ------------------------------------
+Default Styles for Gravity Forms
+---------------------------------------*/
+ul.gform_fields {
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+
+.gfield-us .small,
+.gfield-us .medium,
+.gfield-us .large {
+    width: 100% !important;
+}
+
+.gfield-us select {
+    height: 35px;
+}
